@@ -51,7 +51,7 @@ JobNest/
 
 ## ⚙️ How to Run
 
-### 1. Clone the repository
+### 1. 
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/JobNest.git
