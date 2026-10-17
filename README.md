@@ -63,7 +63,7 @@ Open the project folder in VS Code.
 
 ### 3. Run the application
 
-Since the project uses CDN-based React and Bootstrap, you can open `index.html` directly in a browser.
+Since the project uses CDN-based React and Bootstrap, you can open `index.html` 
 
 For a better development experience, you can also use the **Live Server** extension in VS Code.
 
