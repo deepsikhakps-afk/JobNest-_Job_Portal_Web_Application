@@ -85,8 +85,7 @@ The dashboard provides:
 * Profile
 * Job Listings
 * Applications
-* Application statistics
-
+* Applic
 Users can see the number of applications sent, applications under review, and selected applications.
 
 ## 📝 Application Tracking
